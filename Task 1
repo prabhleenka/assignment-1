@@ -1,0 +1,18 @@
+a = int(input("Enter the first number: "))
+b = int(input("Enter the second number: "))
+
+# Addition
+x = a + b
+print(f"Addition: {x}")
+
+# Subtraction
+x = a - b
+print(f"Subtraction: {x}")
+
+# Multiplication
+x = a * b
+print(f"Multiplication: {x}")
+
+# Division
+x = a / b
+print(f"Division: {x}")
